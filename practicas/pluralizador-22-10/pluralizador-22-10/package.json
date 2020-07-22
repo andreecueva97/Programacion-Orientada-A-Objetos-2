@@ -1,0 +1,17 @@
+{
+  "name": "pluralizador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@pmoo/oow": "^1.8.0"
+  },
+  "devDependencies": {
+    "@pmoo/testy": "^4.2.2"
+  }
+}

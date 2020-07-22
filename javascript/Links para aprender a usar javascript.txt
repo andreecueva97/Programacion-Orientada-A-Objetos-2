@@ -1,0 +1,11 @@
+practica online
+
+https://exercism.io/tracks/javascript
+
+https://www.codecademy.com/learn/introduction-to-javascript
+
+ambientes de prueba
+
+https://codesandbox.io/index2
+
+http://playcode.io/
