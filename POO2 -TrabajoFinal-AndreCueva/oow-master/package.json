@@ -1,0 +1,25 @@
+{
+  "name": "@pmoo/oow",
+  "version": "1.7.0",
+  "description": "Extension methods that should exist in JS core by default",
+  "homepage": "https://github.com/ngarbezza/oow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngarbezza/oow"
+  },
+  "main": "oow.js",
+  "scripts": {
+    "test": "node $NODE_DEBUG_OPTION tests.js"
+  },
+  "files": [
+    "oow.js"
+  ],
+  "keywords": [
+    "oop"
+  ],
+  "author": "Nahuel Garbezza <nahuel@10pines.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@pmoo/testy": "^4.0.1"
+  }
+}
